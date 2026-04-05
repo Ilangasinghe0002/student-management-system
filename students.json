@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Kavindu",
+        "student_id": "0001",
+        "marks": {
+            "Physics": 78.0,
+            "Chemistry": 45.0,
+            "Biology": 90.0
+        },
+        "monthly_fee": 1000.0
+    },
+    {
+        "name": "Tharushi",
+        "student_id": "0002",
+        "marks": {
+            "Physics": 85.0,
+            "Chemistry": 72.0,
+            "Biology": 80.0
+        },
+        "monthly_fee": 1000.0
+    },
+    {
+        "name": "Kasun",
+        "student_id": "0003",
+        "marks": {
+            "Physics": 25.0,
+            "Chemistry": 62.0,
+            "Biology": 77.0
+        },
+        "monthly_fee": 1000.0
+    },
+    {
+        "name": "Vishmi",
+        "student_id": "0004",
+        "marks": {
+            "Physics": 56.0,
+            "Chemistry": 68.0,
+            "Biology": 75.0
+        },
+        "monthly_fee": 1000.0
+    }
+]
