@@ -17,7 +17,7 @@ A simple desktop application to manage student records, marks, grades, and month
 1. Install Python 3 (if not already installed)
 2. Download SMS.py
 3. Open Command Prompt / Terminal and run:
-4. 4. The GUI will open — start adding students!
+4. The GUI will open — start adding students!
 
 ## Technologies Used
 - Python 3
